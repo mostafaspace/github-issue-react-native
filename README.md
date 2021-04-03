@@ -1,4 +1,4 @@
-##About
+## About
 A basic mobile application that allows user to browse GitHub issues.
 
 ## Setup
