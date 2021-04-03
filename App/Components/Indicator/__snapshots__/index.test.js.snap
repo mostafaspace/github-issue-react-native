@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Indicator matches snapshot 1`] = `
+<ActivityIndicator
+  animating={true}
+  color="#575757"
+  hidesWhenStopped={true}
+  size="large"
+  style={
+    Array [
+      Object {
+        "alignSelf": "center",
+        "flex": 1,
+        "justifyContent": "center",
+      },
+      undefined,
+    ]
+  }
+  testID="Indicator"
+/>
+`;

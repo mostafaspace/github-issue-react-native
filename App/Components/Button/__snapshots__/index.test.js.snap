@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button matches snapshot 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#149ADE",
+      "borderRadius": 16,
+      "elevation": 1,
+      "flexDirection": "row",
+      "justifyContent": "space-evenly",
+      "margin": 16,
+      "opacity": 1,
+      "paddingHorizontal": 16,
+      "paddingVertical": 16,
+      "shadowColor": "#000",
+      "shadowOffset": Object {
+        "height": 1,
+        "width": 0,
+      },
+      "shadowOpacity": 0.18,
+      "shadowRadius": 1,
+    }
+  }
+  testID="Button"
+>
+  <Text
+    numberOfLines={1}
+    style={
+      Object {
+        "alignSelf": "center",
+        "color": "#ffffff",
+        "flex": 1,
+        "paddingHorizontal": 16,
+        "textAlign": "center",
+      }
+    }
+    testID="ButtonText"
+  >
+    click here
+  </Text>
+</View>
+`;

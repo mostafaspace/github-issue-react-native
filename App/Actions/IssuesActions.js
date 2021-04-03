@@ -1,0 +1,4 @@
+export const POPULATE_LIST = 'POPULATE_LIST';
+export const APPEND_TO_LIST = 'APPEND_TO_LIST';
+export const LOAD_MORE = 'LOAD_MORE';
+export const LAST_PAGE = 'PRODUCT_DETAILS_SUCCESS';
